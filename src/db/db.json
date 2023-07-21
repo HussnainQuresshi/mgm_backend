@@ -1,0 +1,29 @@
+[
+  {
+    "Column1": "Row 1",
+    "Column2": 456,
+    "Column3": "2023-07-19",
+    "Column4": true,
+    "ParentID": null,
+    "RowID": 1,
+    "hasChild": true
+  },
+  {
+    "RowID": 2,
+    "Column1": "Row 1 Child 1",
+    "Column2": 202,
+    "Column3": "2023-07-16",
+    "Column4": true,
+    "ParentID": 1,
+    "hasChild": false
+  },
+  {
+    "RowID": 3,
+    "Column1": "Row 1 Child 1",
+    "Column2": 202,
+    "Column3": "2023-07-16",
+    "Column4": true,
+    "ParentID": 2,
+    "hasChild": false
+  }
+]
